@@ -1,4 +1,4 @@
-#include <stdlib.h>
+ï»¿#include <stdlib.h>
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
@@ -42,9 +42,9 @@ int* twoSum(int* nums, int numsSize, int target) {
 }
 
 int array[] = {9,4,5,8,7,1,0,3};
-//»ñÈ¡Êı×é³¤¶È
+//è·å–æ•°ç»„é•¿åº¦
 #define GET_ARRAY_LEN(array,len) {len = (sizeof(array) / sizeof(array[0]));}
-//²âÊÔ
+//æµ‹è¯•
 void twoSumMain(void)
 {
     int len;

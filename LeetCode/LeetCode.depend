@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1437097577 source:d:\file\book\leetcode\leetcode\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1436858210 source:d:\file\book\leetcode\leetcode\qsort.c
+	<stdlib.h>
+
+1436858197 source:d:\file\book\leetcode\leetcode\twosum.c
+	<stdlib.h>
+
+1436858494 source:d:\file\book\leetcode\leetcode\addtwonumbers.c
+	<stdlib.h>
+	"Tools.h"
+
+1436858140 source:d:\file\book\leetcode\leetcode\lengthoflongestsubstring.c
+	<stdlib.h>
+
+1436877526 source:d:\file\book\leetcode\leetcode\findmediansortedarrays.c
+	<stdlib.h>
+
+1436858560 d:\file\book\leetcode\leetcode\tools.h
+
+1437012849 source:d:\file\book\leetcode\leetcode\longestpalindrome.c
+	<stdlib.h>
+
+1437098308 source:d:\file\book\leetcode\leetcode\zigzagconversion.c
+	<stdlib.h>
+

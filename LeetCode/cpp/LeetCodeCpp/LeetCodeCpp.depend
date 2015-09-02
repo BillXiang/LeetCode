@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1441186954 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\main.cpp
+	<iostream>
+
+1441154123 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreepreordertraversal.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<stdlib.h>
+
+1441160884 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreeinordertraversal.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<stack>
+
+1441163676 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\generateparentheses.cpp
+	<iostream>
+	<string>
+	<vector>
+
+1441183101 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreepostordertraversal.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<stdlib.h>
+
+1441184341 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\sumroot2leafnumbers.cpp
+	<stdlib.h>
+	<iostream>
+	<stack>
+
+1441190667 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\pathsum.cpp
+	<stdlib.h>
+	<iostream>
+	<stdbool.h>
+	<stack>
+

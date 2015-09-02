@@ -34,25 +34,134 @@
 		<Unit filename="AddTwoNumbers.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="BinaryTreePreorderTraversal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CountingSort_ITA.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EvaluateReversePolishNotation.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="FindMedianSortedArrays.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FourSum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="GenerateParentheses.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Integer2Roman.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="IsMatch.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="IsPalindrome.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LRUCache.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LargestRectangleInHistogram.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="LengthOfLongestSubstring.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="LetterCombinations.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LongestCommonPrefix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LongestConsecutive.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LongestIncreasingSubsequence.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="LongestPalindrome.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="LongestValidParentheses.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MaxArea.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MaxSubArray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MergeKLists.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MergeKListsWithHeap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MergeTwoSortedLists.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MyAtoi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MySqrt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pow.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="QSort.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="RemoveNthFromEnd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Reverse.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Roman2Integer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SameTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SearchInsertPosition.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SearchMatrix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SearchRange.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SearchRotatedSortedArray.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ThreeSum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ThreeSumClosest.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Tools.h" />
+		<Unit filename="TrappingRainWater.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="TwoSum.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ValidNumber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ValidParentheses.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="ZigZagConversion.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="data.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

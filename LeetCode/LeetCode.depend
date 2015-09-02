@@ -27,3 +27,174 @@
 1437098308 source:d:\file\book\leetcode\leetcode\zigzagconversion.c
 	<stdlib.h>
 
+1436877526 source:d:\git\leetcode\leetcode\findmediansortedarrays.c
+	<stdlib.h>
+
+1440140194 source:d:\git\leetcode\leetcode\lengthoflongestsubstring.c
+	<stdlib.h>
+
+1440123779 source:d:\git\leetcode\leetcode\addtwonumbers.c
+	<stdlib.h>
+	"Tools.h"
+
+1437101860 d:\git\leetcode\leetcode\tools.h
+
+1440231831 source:d:\git\leetcode\leetcode\longestpalindrome.c
+	<stdlib.h>
+	<string.h>
+
+1441071089 source:d:\git\leetcode\leetcode\main.c
+	<stdlib.h>
+
+1437101860 source:d:\git\leetcode\leetcode\qsort.c
+
+1438688931 source:d:\git\leetcode\leetcode\reverse.c
+	<limits.h>
+
+1440123750 source:d:\git\leetcode\leetcode\twosum.c
+
+1437101860 source:d:\git\leetcode\leetcode\zigzagconversion.c
+
+1438692904 source:d:\git\leetcode\leetcode\myatoi.c
+	<limits.h>
+	<stdlib.h>
+
+1438693858 source:d:\git\leetcode\leetcode\ispalindrome.c
+	<stdbool.h>
+
+1438866205 source:d:\git\leetcode\leetcode\ismatch.c
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1438960858 source:d:\git\leetcode\leetcode\maxarea.c
+	<stdlib.h>
+
+1439041730 source:d:\git\leetcode\leetcode\trappingrainwater.c
+	<stdlib.h>
+
+1439207065 source:d:\git\leetcode\leetcode\integer2roman.c
+	<string.h>
+
+1439209427 source:d:\git\leetcode\leetcode\roman2integer.c
+	<stdlib.h>
+
+1439380287 source:d:\git\leetcode\leetcode\pow.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1439382249 source:d:\git\leetcode\leetcode\longestcommonprefix.c
+	<stdlib.h>
+
+1439601691 source:d:\git\leetcode\leetcode\threesum.c
+	<stdio.h>
+	<stdlib.h>
+
+1439605379 source:d:\git\leetcode\leetcode\threesumclosest.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+
+1439633880 source:d:\git\leetcode\leetcode\lettercombinations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1439808363 source:d:\git\leetcode\leetcode\foursum.c
+	<stdio.h>
+	<stdlib.h>
+
+1439817444 source:d:\git\leetcode\leetcode\searchmatrix.c
+	<stdio.h>
+	<stdbool.h>
+
+1439859630 source:d:\git\leetcode\leetcode\removenthfromend.c
+	<stdlib.h>
+
+1440054890 source:d:\git\leetcode\leetcode\mergeklists.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1440067292 source:d:\git\leetcode\leetcode\mergeklistswithheap.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"data.h"
+
+1440066563 d:\git\leetcode\leetcode\data.h
+
+1440067187 source:d:\git\leetcode\leetcode\countingsort_ita.c
+	<stdio.h>
+	<stdlib.h>
+	"data.h"
+
+1440123563 source:d:\git\leetcode\leetcode\selectk.c
+	<stdio.h>
+	<stdlib.h>
+
+1440146078 source:d:\git\leetcode\leetcode\maxsubarray.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1440204264 source:d:\git\leetcode\leetcode\longestincreasingsubsequence.c
+	<stdio.h>
+
+1440314504 source:d:\git\leetcode\leetcode\longestconsecutive.c
+	<stdio.h>
+
+1440314831 source:d:\git\leetcode\leetcode\validparentheses.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1440379337 source:d:\git\leetcode\leetcode\longestvalidparentheses.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1440384164 source:d:\git\leetcode\leetcode\validnumber.c
+	<stdbool.h>
+	<stdlib.h>
+
+1440386329 source:d:\git\leetcode\leetcode\evaluatereversepolishnotation.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1440510199 source:d:\git\leetcode\leetcode\largestrectangleinhistogram.c
+	<stdio.h>
+	<stdlib.h>
+
+1440558725 source:d:\git\leetcode\leetcode\lrucache.c
+
+1440582795 source:d:\git\leetcode\leetcode\mergetwosortedlists.c
+	<stdlib.h>
+
+1440676415 source:d:\git\leetcode\leetcode\generateparentheses.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+
+1440727412 source:d:\git\leetcode\leetcode\searchrange.c
+	<stdio.h>
+	<stdlib.h>
+
+1440728754 source:d:\git\leetcode\leetcode\mysqrt.c
+	<stdio.h>
+
+1441069860 source:d:\git\leetcode\leetcode\searchinsertposition.c
+	<stdio.h>
+
+1441073885 source:d:\git\leetcode\leetcode\searchrotatedsortedarray.c
+	<stdio.h>
+
+1441075020 source:d:\git\leetcode\leetcode\sametree.c
+	<stdbool.h>
+	<stdlib.h>
+

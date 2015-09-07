@@ -32,9 +32,26 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="BalancedBinaryTree.cpp" />
+		<Unit filename="BinaryTreeInorderTraversal.cpp" />
+		<Unit filename="BinaryTreeMaximumPathSum.cpp" />
+		<Unit filename="BinaryTreePostorderTraversal.cpp" />
 		<Unit filename="BinaryTreePreorderTraversal.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="BinaryTreeZigzagLevelOrderTraversal.cpp" />
+		<Unit filename="ConstructBinaryTreeInorderPostorderTraversal.cpp" />
+		<Unit filename="ConstructBinaryTreePreorderInorderTraversal.cpp" />
+		<Unit filename="GenerateParentheses.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MaximumDepthBinaryTree.cpp" />
+		<Unit filename="MinimumDepthBinaryTree.cpp" />
+		<Unit filename="PathSum.cpp" />
+		<Unit filename="PathSumII.cpp" />
+		<Unit filename="RecoverBinarySearchTree.cpp" />
+		<Unit filename="SumRoot2LeafNumbers.cpp" />
+		<Unit filename="SymmetricTree.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

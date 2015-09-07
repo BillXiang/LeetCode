@@ -50,6 +50,7 @@ int main()
 //    printf("%d", **k);
 
     //searchInsertMain();
-    searchMain();
+    //searchMain();
+    RightShiftMain();
     return 0;
 }

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1441186954 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\main.cpp
+1441625543 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\main.cpp
 	<iostream>
 
 1441154123 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreepreordertraversal.cpp
@@ -30,9 +30,96 @@
 	<iostream>
 	<stack>
 
-1441190667 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\pathsum.cpp
+1441190988 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\pathsum.cpp
 	<stdlib.h>
 	<iostream>
 	<stdbool.h>
 	<stack>
+
+1441349125 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\pathsumii.cpp
+	<stdlib.h>
+	<vector>
+	<list>
+	<iostream>
+
+1441350656 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\maximumdepthbinarytree.cpp
+	<stdlib.h>
+	<stack>
+	<iostream>
+
+1441351798 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\minimumdepthbinarytree.cpp
+	<stdlib.h>
+	<iostream>
+
+1441354792 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\constructbinarytreepreorderinordertraversal.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+
+1441356246 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\constructbinarytreeinorderpostordertraversal.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+
+1441367824 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreezigzaglevelordertraversal.cpp
+	<stdlib.h>
+	<iostream>
+	<list>
+	<vector>
+
+1441500488 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\symmetrictree.cpp
+	<stdlib.h>
+	<iostream>
+	<stdbool.h>
+
+1441504603 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreemaximumpathsum.cpp
+	<stdlib.h>
+	<iostream>
+	<limits.h>
+
+1441521887 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\balancedbinarytree.cpp
+	<stdlib.h>
+	<iostream>
+	<stdbool.h>
+	<math.h>
+
+1441595358 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\recoverbinarysearchtree.cpp
+	<stdlib.h>
+	<iostream>
+	<stack>
+
+1441595239 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\flattenbinarytree2linkedlist.cpp
+	<stdlib.h>
+	<iostream>
+
+1441608765 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreelevelordertraversal.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+
+1441610468 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreelevelordertraversalii.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+
+1441615289 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\populatingnextrightpointerseachnodeii.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+
+1441612856 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\populatingnextrightpointerseachnode.cpp
+	<stdlib.h>
+	<iostream>
+	<vector>
+
+1441617776 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\singlenumber.cpp
+	<vector>
+	<iostream>
+
+1441621949 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\candy.cpp
+	<vector>
+
+1441625653 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\gasstation.cpp
+	<vector>
+	<stdbool.h>
 

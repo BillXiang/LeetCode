@@ -121,6 +121,9 @@
 		<Unit filename="Reverse.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="RightShift_BOP.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Roman2Integer.c">
 			<Option compilerVar="CC" />
 		</Unit>

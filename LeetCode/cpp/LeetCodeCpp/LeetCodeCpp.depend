@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1441625543 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\main.cpp
+1441892950 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\main.cpp
 	<iostream>
 
 1441154123 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\binarytreepreordertraversal.cpp
@@ -122,4 +122,52 @@
 1441625653 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\gasstation.cpp
 	<vector>
 	<stdbool.h>
+
+1441681189 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\triangle.cpp
+	<vector>
+	<limits.h>
+	<iostream>
+
+1441695583 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\subsets.cpp
+	<vector>
+	<algorithm>
+
+1441698137 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\subsetsii.cpp
+	<vector>
+	<algorithm>
+
+1441701529 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\editdistance.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1441718614 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\wordbreak.cpp
+	<unordered_set>
+	<stdbool.h>
+	<string>
+
+1441786215 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\wordbreakii.cpp
+	<vector>
+	<unordered_set>
+	<string>
+	<iostream>
+
+1441788411 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\uniquebinarysearchtrees.cpp
+	<iostream>
+
+1441846982 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\uniquepaths.cpp
+	<string.h>
+
+1441848916 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\uniquepathsii.cpp
+	<vector>
+
+1441875172 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\scramblestring.cpp
+	<string>
+	<algorithm>
+
+1441940807 source:d:\git\leetcode\leetcode\cpp\leetcodecpp\palindrome partitioning.cpp
+	<vector>
+	<string>
+	<iostream>
+	<list>
 

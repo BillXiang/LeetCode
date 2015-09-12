@@ -20,11 +20,18 @@ extern void levelOrderMain(void);
 extern void levelOrderBottomMain(void);
 extern void singleNumberIIMain(void);
 extern void canCompleteCircuitMain(void);
+extern void minimumTotalMain(void);
+extern void minDistanceMain(void);
+extern void wordBreakII(void);
+extern void numTreesMain(void);
+extern void partitionMain(void);
+
 struct Test {
     int a;
     char b;
     short c;
 };
+
 int main()
 {
     //cout << "Hello world!" << endl;
@@ -50,6 +57,11 @@ int main()
     //levelOrderMain();
     //levelOrderBottomMain();
     //singleNumberIIMain();
-    canCompleteCircuitMain();
+    //canCompleteCircuitMain();
+    //minimumTotalMain();
+//    minDistanceMain();
+    //wordBreakII();
+    //numTreesMain();
+    partitionMain();
     return 0;
 }
